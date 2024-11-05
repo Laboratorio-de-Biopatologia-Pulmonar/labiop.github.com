@@ -23,7 +23,8 @@ $imSettings['search']['general'] = array(
 		'20' => 'moises.html',
 		'21' => 'jorge.html',
 		'22' => 'fernanda.html',
-		'23' => 'paleo.html'
+		'23' => 'paleo.html',
+		'24' => 'annie.html'
 	),
 	'extendedScope' => array(
 	)
