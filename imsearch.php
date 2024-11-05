@@ -18,7 +18,7 @@
 		<link rel="stylesheet" href="style/print.css?2024-2-4-0" media="print" />
 		<link rel="stylesheet" href="style/style.css?2024-2-4-0" media="screen,print" />
 		<link rel="stylesheet" href="style/template.css?2024-2-4-0" media="screen" />
-		<link rel="stylesheet" href="pcss/imsearch.css?2024-2-4-0-638654581996173107" media="screen,print" />
+		<link rel="stylesheet" href="pcss/imsearch.css?2024-2-4-0-638664099627732827" media="screen,print" />
 		<script src="res/jquery.js?2024-2-4-0"></script>
 		<script src="res/x5engine.js?2024-2-4-0" data-files-version="2024-2-4-0"></script>
 		<script>
@@ -26,7 +26,7 @@
 			x5engine.utils.currentPagePath = 'imsearch.php';
 			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
 		</script>
-		<link rel="icon" href="favicon.png?2024-2-4-0-638654581996093329" type="image/png" />
+		<link rel="icon" href="favicon.png?2024-2-4-0-638664099627680589" type="image/png" />
 	</head>
 	<body>
 		<div id="imPageExtContainer">
@@ -36,7 +36,7 @@
 				<div id="imPage">
 					<header id="imHeader">
 						<h1 class="imHidden">Búsqueda - LABIOP</h1>
-						<div id="imHeaderObjects"><div id="imHeader_imObjectImage_03_wrapper" class="template-object-wrapper"><div id="imHeader_imObjectImage_03"><div id="imHeader_imObjectImage_03_container"><img src="images/01-head.png" title="" alt="" width="150" height="48" />
+						<div id="imHeaderObjects"><div id="imHeader_imObjectImage_03_wrapper" class="template-object-wrapper"><div id="imHeader_imObjectImage_03"><div id="imHeader_imObjectImage_03_container"><img src="images/01-head.png" title="" alt="" width="150" height="47" />
 </div></div></div><div id="imHeader_imMenuObject_04_wrapper" class="template-object-wrapper"><!-- UNSEARCHABLE --><div id="imHeader_imMenuObject_04"><div id="imHeader_imMenuObject_04_container"><div class="hamburger-button hamburger-component"><div><div><div class="hamburger-bar"></div><div class="hamburger-bar"></div><div class="hamburger-bar"></div></div></div></div><div class="hamburger-menu-background-container hamburger-component">
 	<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
 		<div class="hamburger-menu-close-button"><span>&times;</span></div>
@@ -58,8 +58,14 @@ INICIO		</a>
 Plasticidad celular		</a>
 </div>
 </div>
-	</li></ul></li><li class="imMnMnMiddle imLevel" data-link-paths=",/integrantes.html" data-link-hash="-1004162073"><div class="label-wrapper"><div class="label-inner-wrapper"><a href="integrantes.html" class="label" onclick="return x5engine.utils.location('integrantes.html', null, false)">INTEGRANTES</a></div></div><ul data-original-position="open-bottom" class="open-bottom" style="opacity: 0;" >
-	</ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/investigacion.html">
+	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/integrantes.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="integrantes.html">
+INTEGRANTES		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/investigacion.html">
 <div class="label-wrapper">
 <div class="label-inner-wrapper">
 		<a class="label" href="investigacion.html">
@@ -124,8 +130,14 @@ INICIO		</a>
 Plasticidad celular		</a>
 </div>
 </div>
-	</li></ul></li><li class="imMnMnMiddle imLevel" data-link-paths=",/integrantes.html" data-link-hash="-1004162073"><div class="label-wrapper"><div class="label-inner-wrapper"><a href="integrantes.html" class="label" onclick="return x5engine.utils.location('integrantes.html', null, false)">INTEGRANTES</a></div></div><ul data-original-position="open-bottom" class="open-bottom" style="opacity: 0;" >
-	</ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/investigacion.html">
+	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/integrantes.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="integrantes.html">
+INTEGRANTES		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/investigacion.html">
 <div class="label-wrapper">
 <div class="label-inner-wrapper">
 		<a class="label" href="investigacion.html">
