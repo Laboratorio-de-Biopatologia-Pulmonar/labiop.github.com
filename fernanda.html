@@ -19,7 +19,7 @@
 		<link rel="stylesheet" href="style/template.css?2024-2-4-0" media="screen" />
 		<style type="text/css">#pluginAppObj_22_135 { width: 100%; }</style>
 		<style type="text/css">#pluginAppObj_22_181 { width: 100%; }</style>
-		<link rel="stylesheet" href="pcss/fernanda.css?2024-2-4-0-638668469318442957" media="screen,print" />
+		<link rel="stylesheet" href="pcss/fernanda.css?2024-2-4-0-638668473905023281" media="screen,print" />
 		<script src="res/jquery.js?2024-2-4-0"></script>
 		<script src="res/x5engine.js?2024-2-4-0" data-files-version="2024-2-4-0"></script>
 		<script>
@@ -29,7 +29,7 @@
 			x5engine.boot.push(function () { x5engine.parallax.start(); });
 			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
 		</script>
-		<link rel="icon" href="favicon.png?2024-2-4-0-638668469315592759" type="image/png" />
+		<link rel="icon" href="favicon.png?2024-2-4-0-638668473899946023" type="image/png" />
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172821230-1"></script>
 		<script>
@@ -188,8 +188,7 @@ x5engine.boot.push(function(){x5engine.initMenu(imStickyBar_imMenuObject_01_sett
 $(function () {$('#imStickyBar_imMenuObject_01_container ul li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        if($(this).parents('#imStickyBar_imMenuObject_01_container-menu-opened').length > 0) return;         clearTimeout(timeout);        setTimeout(function () { $this.children('ul, .multiple-column').stop(false, false).fadeIn(); }, 250);    }).on('mouseleave', function () {        if($(this).parents('#imStickyBar_imMenuObject_01_container-menu-opened').length > 0) return;         timeout = setTimeout(function () { $this.children('ul, .multiple-column').stop(false, false).fadeOut(); }, 250);    });});});
 $(function () {$('#imStickyBar_imMenuObject_01_container > ul > li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        clearTimeout(timeout);        var overElem = $this.children('.sweeper');        if(overElem.length == 0)            overElem = $this.children('.label-wrapper').clone().appendTo($this).wrap('<div class="sweeper"></div>').addClass('label-wrapper-over').parent();        setTimeout(function(){overElem.addClass('animated');}, 10);    }).on('mouseleave', function () {        var overElem = $this.children('.sweeper');        overElem.removeClass('animated');        timeout = setTimeout(function(){overElem.remove();}, 500);    });});});
 </script>
-</div><div id="imStickyBar_imObjectImage_02_wrapper" class="template-object-wrapper"><div id="imStickyBar_imObjectImage_02"><div id="imStickyBar_imObjectImage_02_container"><a href="index.html" onclick="return x5engine.utils.location('index.html', null, false)"><img src="images/06-foot_idb0jmb3.png" title="" alt="" width="140" height="44" />
-</a></div></div></div></div>
+</div></div>
 						</div>
 					</div>
 					<a class="imHidden" href="#imGoToCont" title="Salta el menu principal">Vaya al Contenido</a>
