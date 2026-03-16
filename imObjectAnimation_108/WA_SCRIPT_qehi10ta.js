@@ -145,7 +145,7 @@ carrusel_chico.stage = [{
                     'Left': '27px',
                     'Height': '446px',
                     'Width': '288px',
-                    'ZIndex': '3','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 01 laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '3','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-01-laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -175,7 +175,7 @@ carrusel_chico.stage = [{
                     'Left': '310px',
                     'Height': '514px',
                     'Width': '314px',
-                    'ZIndex': '4','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 02 ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '4','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-02-ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -208,7 +208,7 @@ carrusel_chico.stage = [{
                     'Left': '622px',
                     'Height': '496px',
                     'Width': '310px',
-                    'ZIndex': '5','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 03 alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '5','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-03-alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -240,7 +240,7 @@ carrusel_chico.stage = [{
                     'Left': '28px',
                     'Height': '446px',
                     'Width': '288px',
-                    'ZIndex': '7','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/color 01 laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '7','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/color-01-laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -269,7 +269,7 @@ carrusel_chico.stage = [{
                     'Left': '939px',
                     'Height': '480px',
                     'Width': '388px',
-                    'ZIndex': '0','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha 01 laurel11.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '0','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha-01-laurel11.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -379,7 +379,7 @@ carrusel_chico.stage = [{
                     'Left': '27px',
                     'Height': '446px',
                     'Width': '288px',
-                    'ZIndex': '3','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 01 laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '3','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-01-laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -411,7 +411,7 @@ carrusel_chico.stage = [{
                     'Left': '310px',
                     'Height': '514px',
                     'Width': '314px',
-                    'ZIndex': '4','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 02 ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '4','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-02-ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -441,7 +441,7 @@ carrusel_chico.stage = [{
                     'Left': '622px',
                     'Height': '496px',
                     'Width': '310px',
-                    'ZIndex': '5','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 03 alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '5','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-03-alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -473,7 +473,7 @@ carrusel_chico.stage = [{
                     'Left': '310px',
                     'Height': '515px',
                     'Width': '314px',
-                    'ZIndex': '7','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/color 02 ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '7','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/color-02-ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -502,7 +502,7 @@ carrusel_chico.stage = [{
                     'Left': '939px',
                     'Height': '480px',
                     'Width': '388px',
-                    'ZIndex': '0','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha 02 ceiba1.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '0','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha-02-ceiba1.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -612,7 +612,7 @@ carrusel_chico.stage = [{
                     'Left': '27px',
                     'Height': '446px',
                     'Width': '288px',
-                    'ZIndex': '3','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 01 laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '3','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-01-laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -645,7 +645,7 @@ carrusel_chico.stage = [{
                     'Left': '310px',
                     'Height': '514px',
                     'Width': '314px',
-                    'ZIndex': '4','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 02 ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '4','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-02-ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -677,7 +677,7 @@ carrusel_chico.stage = [{
                     'Left': '622px',
                     'Height': '496px',
                     'Width': '310px',
-                    'ZIndex': '5','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 03 alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '5','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-03-alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -706,7 +706,7 @@ carrusel_chico.stage = [{
                     'Left': '622px',
                     'Height': '496px',
                     'Width': '309px',
-                    'ZIndex': '7','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/color 03 alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '7','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/color-03-alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -735,7 +735,7 @@ carrusel_chico.stage = [{
                     'Left': '939px',
                     'Height': '480px',
                     'Width': '388px',
-                    'ZIndex': '0','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha 03 alcatraz1.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '0','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha-03-alcatraz1.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -801,23 +801,23 @@ carrusel_chico.stage = [{
             carrusel_chico.preloadImages = true;
 carrusel_chico.imagesToPreload = [
 '' + x5engine.settings.currentPath + 'imObjectAnimation_108/piso.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 01 laurel.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 02 ceiba.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 03 alcatraz.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/color 01 laurel.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha 01 laurel11.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-01-laurel.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-02-ceiba.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-03-alcatraz.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/color-01-laurel.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha-01-laurel11.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_108/piso.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 01 laurel.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 02 ceiba.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 03 alcatraz.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/color 02 ceiba.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha 02 ceiba1.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-01-laurel.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-02-ceiba.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-03-alcatraz.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/color-02-ceiba.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha-02-ceiba1.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_108/piso.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 01 laurel.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 02 ceiba.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 03 alcatraz.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/color 03 alcatraz.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha 03 alcatraz1.png'
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-01-laurel.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-02-ceiba.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-03-alcatraz.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/color-03-alcatraz.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha-03-alcatraz1.png'
 ];carrusel_chico.createWorkspace('imObjectAnimation_108_stage');
 
                 }

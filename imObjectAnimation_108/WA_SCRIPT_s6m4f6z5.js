@@ -116,7 +116,7 @@ New_Project.stage = [{
                     'Left': '47px',
                     'Height': '488px',
                     'Width': '287px',
-                    'ZIndex': '2','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 01 laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '2','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-01-laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -175,7 +175,7 @@ New_Project.stage = [{
                     'Left': '329px',
                     'Height': '572px',
                     'Width': '314px',
-                    'ZIndex': '3','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 02 ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '3','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-02-ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -208,7 +208,7 @@ New_Project.stage = [{
                     'Left': '641px',
                     'Height': '571px',
                     'Width': '309px',
-                    'ZIndex': '4','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 03 alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '4','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-03-alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -240,7 +240,7 @@ New_Project.stage = [{
                     'Left': '42px',
                     'Height': '479px',
                     'Width': '913px',
-                    'ZIndex': '5','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha 01 laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '5','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha-01-laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -343,7 +343,7 @@ New_Project.stage = [{
                     'Left': '-10px',
                     'Height': '574px',
                     'Width': '401px',
-                    'ZIndex': '7','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/color 01 laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '7','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/color-01-laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -424,7 +424,7 @@ New_Project.stage = [{
                     'Left': '47px',
                     'Height': '488px',
                     'Width': '287px',
-                    'ZIndex': '2','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 01 laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '2','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-01-laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -485,7 +485,7 @@ New_Project.stage = [{
                     'Left': '329px',
                     'Height': '572px',
                     'Width': '314px',
-                    'ZIndex': '3','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 02 ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '3','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-02-ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -515,7 +515,7 @@ New_Project.stage = [{
                     'Left': '641px',
                     'Height': '571px',
                     'Width': '309px',
-                    'ZIndex': '4','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 03 alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '4','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-03-alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -547,7 +547,7 @@ New_Project.stage = [{
                     'Left': '42px',
                     'Height': '480px',
                     'Width': '913px',
-                    'ZIndex': '5','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha 02 ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '5','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha-02-ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -576,7 +576,7 @@ New_Project.stage = [{
                     'Left': '272px',
                     'Height': '637px',
                     'Width': '427px',
-                    'ZIndex': '6','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/color 02 ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '6','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/color-02-ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -657,7 +657,7 @@ New_Project.stage = [{
                     'Left': '47px',
                     'Height': '488px',
                     'Width': '287px',
-                    'ZIndex': '2','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 01 laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '2','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-01-laurel.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -719,7 +719,7 @@ New_Project.stage = [{
                     'Left': '329px',
                     'Height': '572px',
                     'Width': '314px',
-                    'ZIndex': '3','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 02 ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '3','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-02-ceiba.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -751,7 +751,7 @@ New_Project.stage = [{
                     'Left': '641px',
                     'Height': '571px',
                     'Width': '309px',
-                    'ZIndex': '4','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 03 alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '4','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-03-alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -780,7 +780,7 @@ New_Project.stage = [{
                     'Left': '42px',
                     'Height': '479px',
                     'Width': '913px',
-                    'ZIndex': '5','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha 03 alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '5','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha-03-alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -809,7 +809,7 @@ New_Project.stage = [{
                     'Left': '584px',
                     'Height': '615px',
                     'Width': '423px',
-                    'ZIndex': '6','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/color 03 alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '6','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_108/color-03-alcatraz.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -874,24 +874,24 @@ New_Project.stage = [{
             New_Project.debug = false;
             New_Project.preloadImages = true;
 New_Project.imagesToPreload = [
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 01 laurel.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-01-laurel.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_108/piso.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 02 ceiba.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 03 alcatraz.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha 01 laurel.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/color 01 laurel.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 01 laurel.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-02-ceiba.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-03-alcatraz.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha-01-laurel.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/color-01-laurel.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-01-laurel.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_108/piso.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 02 ceiba.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 03 alcatraz.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha 02 ceiba.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/color 02 ceiba.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 01 laurel.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-02-ceiba.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-03-alcatraz.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha-02-ceiba.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/color-02-ceiba.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-01-laurel.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_108/piso.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 02 ceiba.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris 03 alcatraz.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha 03 alcatraz.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_108/color 03 alcatraz.png'
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-02-ceiba.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/gris-03-alcatraz.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/ficha-03-alcatraz.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_108/color-03-alcatraz.png'
 ];New_Project.createWorkspace('imObjectAnimation_108_stage');
 
                 }
